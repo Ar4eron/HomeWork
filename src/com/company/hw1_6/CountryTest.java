@@ -1,4 +1,4 @@
-package com.company;
+package com.company.hw1_6;
 
 public class CountryTest {
     public static void main(String[] args) {
